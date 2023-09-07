@@ -1,6 +1,6 @@
 # How to make my favorite Tea in pseudocode
 
-#####BEGAN
+##### BEGAN
 
 	GET kettle
 
@@ -42,4 +42,4 @@
 
 	ADD Sugar to water
 
-#####END
+##### END
