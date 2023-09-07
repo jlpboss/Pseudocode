@@ -28,18 +28,18 @@
 	
 		GET sugar
 	
-		ADD Sugar to water
+		ADD Sugar to cup
 	
-		ADD Sugar to water
+		ADD Sugar to cup
 	
-		ADD Sugar to water
+		ADD Sugar to cup
 	
 		GET honey
 	
-		ADD honey to water
+		ADD honey to cup
 	
-		ADD Sugar to water
+		ADD Sugar to cup
 	
-		ADD Sugar to water
+		ADD Sugar to cup
 	
 	END
