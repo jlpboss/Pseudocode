@@ -42,6 +42,8 @@
 	
 		ADD Sugar to cup
 
-  		// Adding Sugar for comidic effect
+  		// Adding Sugar for comedic effect
 	
 	END
+
+ enjoy your Tea!
