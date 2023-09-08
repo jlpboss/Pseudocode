@@ -25,14 +25,12 @@
 		WAIT 10 minutes
 	
 		REMOVE tea bag from cup
+
+  		GET Sugar
 	
-		GET sugar
-	
-		ADD Sugar to cup
-	
-		ADD Sugar to cup
-	
-		ADD Sugar to cup
+		WHILE Sugar is less than half of cup
+  			
+     			ADD Sugar to cup
 	
 		GET honey
 	
@@ -42,7 +40,7 @@
 	
 		ADD Sugar to cup
 
-  		// Adding Sugar for comedic effect
+  		// Adding Sugar extra for comedic effect
 	
 	END
 
