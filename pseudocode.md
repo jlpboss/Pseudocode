@@ -44,4 +44,4 @@
 	
 	END
 
- enjoy your Tea!
+:sparkles: Enjoy your Tea! :sparkles:
