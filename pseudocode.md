@@ -30,7 +30,7 @@
 	
 		WHILE Sugar is less than half of cup
   			
-     			ADD Sugar to cup
+			ADD Sugar to cup
 	
 		GET honey
 	
